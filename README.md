@@ -35,8 +35,8 @@ A simple and secure random password generator built with React, JavaScript, HTML
 
 1. Adjust the password length using the slider or input field.
 2. Select options for including numbers and special characters.
-3. Click the "Generate Password" button to create a new password.
-4. Click the "Copy to Clipboard" button to copy the generated password.
+3. Click the "refresh" button to create a new password.
+4. Click the "Copy" button to copy the generated password.
 
 ## Contributing
 
